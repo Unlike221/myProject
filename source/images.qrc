@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/newWindow.svg</file>
+        <file>../images/output1.svg</file>
+        <file>../images/output2.svg</file>
+        <file>../images/output3.svg</file>
+        <file>../images/output4.svg</file>
+        <file>../images/output5.svg</file>
+        <file>../images/icon.png</file>
+        <file>../images/bg.jpg</file>
+    </qresource>
+</RCC>
